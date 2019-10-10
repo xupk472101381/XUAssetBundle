@@ -1,0 +1,23 @@
+{
+  "name": "com.xupk.assetbundle",
+  "version": "0.3.0",
+  "displayName": "XUAssetBundle",
+  "description": "xupk assetbundle frame",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "repository": {
+     "type": "git",
+     "url": "git+https://github.com/xupk472101381/XUAssetBundle.git"
+  },
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "assetbundle"
+  ],
+  "author": {
+    "name": "xupk",
+    "email": "472101381@qq.com",
+    "url": ""
+  } 
+}

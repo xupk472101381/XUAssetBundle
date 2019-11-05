@@ -1,2 +1,2 @@
-# XUAssetBundle
-资源管理和打包框架
+﻿# XUAssetBundle
+资源管理和打包工具

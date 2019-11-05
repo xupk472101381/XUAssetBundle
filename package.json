@@ -1,8 +1,8 @@
 {
   "name": "com.xupk.assetbundle",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "displayName": "XUAssetBundle",
-  "description": "xupk assetbundle frame",
+  "description": "AssetBundle Assistant",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "repository": {
@@ -13,7 +13,7 @@
     
   },
   "keywords": [
-    "assetbundle"
+    "UGUI"
   ],
   "author": {
     "name": "xupk",
